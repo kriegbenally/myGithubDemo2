@@ -11,9 +11,7 @@
 
     <h1>jakkie</h1>
     <h1>phelanzo</h1>
-<<<<<<< HEAD
-<h4>coder</h4>
-=======
+    <h4>coder</h4>
     <p>Have a calm and relaxing day</p>
 
 
@@ -22,6 +20,6 @@
     </div>
 
     <h3>I think I'm doing well...</h3>
->>>>>>> 6fc3076a3096eac4b3d9cb7f09dc3f20f91f7a22
+
   </body>
 </html>
